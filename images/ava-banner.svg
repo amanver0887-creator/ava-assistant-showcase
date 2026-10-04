@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
   <title id="title">Ava — Your everyday companion. Created by Aman Verma.</title>
-  <desc id="desc">Pearl and forest-green Ava repository banner with private source, Android and Pearl plus Companion labels.</desc>
+  <desc id="desc">Pearl and forest-green Ava repository banner with voice assistant, Android and Pearl plus Companion labels.</desc>
   <defs>
     <linearGradient id="pearl" x2="1" y2="1">
       <stop stop-color="#faf8f1"/>
@@ -31,7 +31,7 @@
       <g font-size="11" font-weight="600" letter-spacing="1.3">
         <rect x="64" y="242" width="162" height="34" rx="17" fill="#164c40"/>
         <circle cx="82" cy="259" r="3" fill="#c4d6ad"/>
-        <text x="97" y="263" fill="#f7f5ed">PRIVATE SOURCE</text>
+        <text x="97" y="263" fill="#f7f5ed">VOICE ASSISTANT</text>
         <rect x="238" y="242" width="112" height="34" rx="17" fill="#fbfaf4" stroke="#cbd5c6"/>
         <text x="263" y="263" fill="#31574b">ANDROID</text>
         <rect x="362" y="242" width="218" height="34" rx="17" fill="#fbfaf4" stroke="#cbd5c6"/>
