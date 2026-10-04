@@ -4,7 +4,7 @@
 
 Ava is an Android voice and chat assistant created by Aman Verma.
 
-**This is a product showcase page only. Ava's source code is private and is not published here.**
+**A showcase of Ava's features, interface and design.**
 
 ## What Ava does
 - Voice and chat assistant on Android with a custom Pearl interface
