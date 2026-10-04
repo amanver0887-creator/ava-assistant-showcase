@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ava — Your everyday companion. Created by Aman Verma.</title>
+  <desc id="desc">Pearl and forest-green Ava repository banner with private source, Android and Pearl plus Companion labels.</desc>
+  <defs>
+    <linearGradient id="pearl" x2="1" y2="1">
+      <stop stop-color="#faf8f1"/>
+      <stop offset="1" stop-color="#ecefe5"/>
+    </linearGradient>
+    <linearGradient id="sage" x2="0" y2="1">
+      <stop stop-color="#d0dbcc"/>
+      <stop offset="1" stop-color="#e8ece1"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="320" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="320" fill="url(#pearl)"/>
+    <circle cx="1130" cy="-76" r="390" fill="url(#sage)" opacity=".65"/>
+    <g fill="none" stroke="#b7c6b4" stroke-width="1" opacity=".6">
+      <ellipse cx="1040" cy="155" rx="334" ry="221" transform="rotate(-28 1040 155)"/>
+      <ellipse cx="1068" cy="120" rx="405" ry="264" transform="rotate(-28 1068 120)"/>
+    </g>
+    <rect x="856" y="30" width="352" height="258" rx="28" fill="#fcfaf4" fill-opacity=".62" stroke="#cbd5c6"/>
+    <g transform="translate(930 49) scale(3.1)" fill="none" stroke="#164c40" stroke-width="1.1">
+      <path d="M32 5C20 5 9 17 9 30c0 13 10 20 23 29 13-9 23-16 23-29C55 17 44 5 32 5Z"/>
+      <path d="m18 39 14-25 14 25M24 31h16" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="64" y="55" font-size="12" font-weight="600" letter-spacing="3.2" fill="#5e746c">A LITTLE LESS EFFORT. A LITTLE MORE LIFE.</text>
+      <text x="58" y="152" font-size="102" font-weight="650" letter-spacing="-5" fill="#123f35">Ava</text>
+      <text x="64" y="201" font-size="27" font-weight="400" fill="#45665a">Your everyday companion.</text>
+      <g font-size="11" font-weight="600" letter-spacing="1.3">
+        <rect x="64" y="242" width="162" height="34" rx="17" fill="#164c40"/>
+        <circle cx="82" cy="259" r="3" fill="#c4d6ad"/>
+        <text x="97" y="263" fill="#f7f5ed">PRIVATE SOURCE</text>
+        <rect x="238" y="242" width="112" height="34" rx="17" fill="#fbfaf4" stroke="#cbd5c6"/>
+        <text x="263" y="263" fill="#31574b">ANDROID</text>
+        <rect x="362" y="242" width="218" height="34" rx="17" fill="#fbfaf4" stroke="#cbd5c6"/>
+        <text x="382" y="263" fill="#31574b">PEARL + COMPANION</text>
+      </g>
+      <text x="1032" y="249" text-anchor="middle" font-size="10" letter-spacing="2.8" fill="#6f7a6b">CREATED BY</text>
+      <text x="1032" y="274" text-anchor="middle" font-size="22" font-weight="600" letter-spacing=".6" fill="#967243">Aman Verma</text>
+    </g>
+    <rect x="0.5" y="0.5" width="1279" height="319" rx="24" fill="none" stroke="#dfe4d8"/>
+  </g>
+</svg>
