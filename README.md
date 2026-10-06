@@ -6,6 +6,8 @@ Ava is an Android voice and chat assistant created by Aman Verma.
 
 **A showcase of Ava's features, interface and design.**
 
+> **Development/showcase status:** Ava is under development. This repository is a public showcase, not a public product release or a certification of production safety.
+
 ## What Ava does
 - Voice and chat assistant on Android with a custom Pearl interface
 - Python FastAPI backend for task orchestration
@@ -16,7 +18,9 @@ Ava is an Android voice and chat assistant created by Aman Verma.
 ## Tech (high level)
 Kotlin (Android) · Python / FastAPI · WebSocket
 
-## Gallery
+## Gallery — Illustrative UI designs
+
+The visuals below are illustrative UI designs, not device screenshots or proof of completed actions.
 
 ![Ava home](images/ava-home.png)
 
